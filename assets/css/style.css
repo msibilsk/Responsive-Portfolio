@@ -229,6 +229,10 @@ h3 {
 	.header_container {
 		width: 730px;
 	}
+	h1 {
+		font-size: 1.5em;
+		line-height: 3.5em;
+	}
 	.container {
 		width: 730px;
 		min-height: 1000px;
