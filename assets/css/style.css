@@ -53,7 +53,7 @@ a {
 
 .container {
 	clear: both;
-	min-height: 700px;
+	min-height: 1000px;
 	width: 960px;
 	margin: 0px auto;
 }
@@ -128,8 +128,8 @@ footer {
 
 #profilepic {
 	margin-right: 20px;
- 	width: 200px;
- 	height: 150px;
+ 	width: 128px;
+ 	height: 128px;
  	float: left;
 }
 
